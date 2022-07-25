@@ -1,0 +1,7 @@
+12341283
+  windosw show
+  scene bg ext_home_of_mt_day with dissolve
+  play mabience ambience_day_countrside fadein 2
+  window show
+  "Привет как дела?"
+  return
